@@ -1,0 +1,25 @@
+skill,course,provider
+python,Python for Everybody,Coursera
+python,Complete Python Bootcamp,Udemy
+machine learning,Machine Learning Specialization,Coursera
+machine learning,Hands-On Machine Learning,O'Reilly
+deep learning,Deep Learning Specialization,Coursera
+deep learning,Fast.ai Practical Deep Learning,fast.ai
+sql,SQL for Data Science,Coursera
+sql,The Complete SQL Bootcamp,Udemy
+docker,Docker and Kubernetes: Complete Guide,Udemy
+docker,Docker Deep Dive,Pluralsight
+aws,AWS Certified Cloud Practitioner,AWS
+aws,Ultimate AWS Certified Solutions Architect,Udemy
+react,React - The Complete Guide,Udemy
+react,Full Stack Open,University of Helsinki
+pytorch,Deep Learning with PyTorch,Udemy
+pytorch,PyTorch for Deep Learning,Zero to Mastery
+tensorflow,TensorFlow Developer Certificate,Google
+statistics,Statistics with Python Specialization,Coursera
+llm,LLM Bootcamp,Full Stack Deep Learning
+langchain,LangChain for LLM Application Development,DeepLearning.AI
+kubernetes,Certified Kubernetes Administrator,Linux Foundation
+postgresql,Learn PostgreSQL,freeCodeCamp
+typescript,Understanding TypeScript,Udemy
+node.js,The Complete Node.js Developer Course,Udemy

@@ -1,0 +1,23 @@
+skill,project,difficulty
+python,Build a CLI task manager with file persistence,Beginner
+python,Create a web scraper with BeautifulSoup,Intermediate
+machine learning,Customer churn prediction model,Intermediate
+machine learning,House price prediction with regression,Beginner
+deep learning,Image classifier using CNN,Intermediate
+deep learning,Build a chatbot with transformer,Advanced
+sql,Analyze e-commerce sales data,Beginner
+sql,Build a relational DB schema for a hospital system,Intermediate
+docker,Containerize a FastAPI application,Intermediate
+docker,Set up a multi-container app with docker-compose,Intermediate
+aws,Deploy a static website to S3 + CloudFront,Beginner
+aws,Build a serverless API with Lambda + API Gateway,Intermediate
+react,Build a personal portfolio website,Beginner
+react,Create a real-time chat app with WebSockets,Advanced
+pytorch,Train a sentiment analysis model,Intermediate
+statistics,Perform A/B test analysis on marketing data,Intermediate
+llm,Build a RAG-based document Q&A app,Advanced
+langchain,Create an AI agent with tool use,Advanced
+kubernetes,Deploy a microservices app on Kubernetes,Advanced
+postgresql,Design and optimize a database for a SaaS product,Intermediate
+typescript,Build a typed REST API client,Intermediate
+node.js,Build a REST API with authentication,Intermediate

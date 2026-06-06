@@ -1,0 +1,10 @@
+role,skills
+Data Scientist,python,machine learning,deep learning,sql,statistics,pandas,numpy,scikit-learn,data visualization,tableau
+Machine Learning Engineer,python,machine learning,deep learning,pytorch,tensorflow,mlops,docker,kubernetes,sql,git
+Full Stack Developer,react,node.js,javascript,typescript,sql,mongodb,docker,git,rest api,css
+Backend Developer,python,fastapi,sql,postgresql,docker,redis,git,rest api,linux,system design
+DevOps Engineer,docker,kubernetes,aws,linux,ci/cd,terraform,git,python,monitoring,bash
+Data Analyst,sql,python,excel,tableau,power bi,statistics,pandas,data visualization,excel,reporting
+Frontend Developer,react,javascript,typescript,css,html,next.js,tailwind,git,figma,web performance
+Cloud Engineer,aws,azure,gcp,terraform,docker,kubernetes,python,linux,networking,security
+AI Engineer,python,llm,rag,langchain,openai api,deep learning,nlp,vector databases,fastapi,docker
